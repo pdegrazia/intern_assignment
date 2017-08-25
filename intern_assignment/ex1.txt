@@ -1,0 +1,16 @@
+Please read everything through before starting assignment
+
+I want to know how many test files there are in my regression suite, i.e. in a directory
+Test files can start either with a number or with a given prefix (WEB-) and have a .txt extension
+
+Task:
+1) produce a test data set according to specifications
+2) write a python script counting the right files
+
+Optional 1:
+report the results in a text file --> to be done after reviewing 
+Optional 2: 
+Files with a valid prefix but that do not contain test cases shoud not be taken into account
+
+Instructions:
+Every step must be reviewed first and then pushed to the git repository before moving to the next one
